@@ -44,14 +44,8 @@ font-family: 'Open Sans', sans-serif;
 color: #fff;
 text-align: center;
 font-size: 50px;
-font-weight: 300;
-margin: 0 0 10px 0;
-}
-
-
-h1 strong{
-font-size: 38px;
 font-weight: 700;
+margin: 0 0 10px 0;
 }
 
 h2{
@@ -93,14 +87,14 @@ display: block;
 }
 
 .field{
-background: url(../images/field.png) repeat;
+/*background: url(../images/field.png) repeat;*/
 width: 448px;
 -webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;
 border: none;
 font-style: italic;
 font-family: 'Lato', sans-serif;
 font-size: 16px;
-color: #ffffff;
+color: #000;
 float: left;
 padding: 15px;
 margin-bottom: 15px;
@@ -126,7 +120,7 @@ padding: 3px 10px;
 -webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;
 margin-left: -78px;
 margin-top: 12px;
-background: #ffffff;
+background: #c2c2c2;
 border: none;
 float: left;
 font-family: 'Lato', sans-serif;
